@@ -1,4 +1,4 @@
-# 
+# Inkscape for macOS vip Script - smart objects and masking tools offers the most advanced Inkscape for macOS script, with smart objects and masking tools. Ideal for professional
 
 
 
